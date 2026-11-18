@@ -45,3 +45,8 @@ python main.py
 
 # Para sair do ambiente virtual
 deactivate
+```
+
+## 💡 Fluxo para entender o código (ordem dos arquivos)
+1. config_modelo
+2. agente.py
